@@ -1,0 +1,9 @@
+# Java 클래스 파일 무시
+*.class
+
+# Maven 관련 파일 무시
+target/
+
+# IDE 관련 파일 무시
+.idea/
+*.iml
